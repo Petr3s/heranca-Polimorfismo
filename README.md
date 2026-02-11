@@ -60,8 +60,6 @@ Aqui é onde entra o ponto forte:
 
 🔥 Herança
 
-Provavelmente existe uma classe base de ingresso (ou poderia existir), e os tipos específicos herdam comportamento comum.
-
 Exemplo conceitual:
 
 Ingresso ingresso = new IngressosMeia();
@@ -102,7 +100,7 @@ Estruturação de sistemas pequenos com responsabilidade definida
 
 Base para padrões de projeto
 
-🚀 Próximos Passos (Evolução Recomendada)
+🚀 Próximos Passos 
 
 Para elevar o projeto de nível:
 
